@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_API_URL = "http://localhost:5000/tasks";
+const BASE_API_URL = "https://lambda-crud-app.onrender.com/tasks";
 
 export const fetchTasks = async()=>{
 
