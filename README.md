@@ -86,9 +86,9 @@ FULLSTACK-TASK-MANAGER/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd FULLSTACK-TASK-MANAGER
-
+git clone https://github.com/nishitpasupuleti/lambda-crud-app
+cd lambda-crud-app
+ 
 ```
 
 ### 2. Backend Setup
